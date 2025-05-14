@@ -1,0 +1,11 @@
+com\version\company\Controller\CompanyController.class
+com\version\company\repository\ApplicationRepository.class
+com\version\company\model\CompanyRequest.class
+com\version\company\model\VersionModel.class
+com\version\company\service\CompanyService.class
+com\version\company\Application.class
+com\version\company\model\VersionCompanyModel.class
+com\version\company\model\CompanyModel.class
+com\version\company\repository\VersionRepository.class
+com\version\company\model\ApplicationModel.class
+com\version\company\repository\CompanyRepository.class
